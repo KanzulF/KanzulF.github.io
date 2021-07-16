@@ -1,10 +1,13 @@
 .jumbroton {
     padding-top: 8rem;
-
 }
 
 a:hover {
     font-weight: bold;
+}
+
+.btn:hover {
+    background-color: #dedede;
 }
 
 section {
